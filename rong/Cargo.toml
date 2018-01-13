@@ -1,0 +1,6 @@
+[package]
+name = "rong"
+version = "0.1.0"
+authors = ["rongfl <rongfl@yonyou.com>"]
+
+[dependencies]

@@ -1,0 +1,11 @@
+[[package]]
+name = "mainapp"
+version = "0.1.0"
+dependencies = [
+ "rong 0.1.0",
+]
+
+[[package]]
+name = "rong"
+version = "0.1.0"
+
